@@ -74,6 +74,7 @@
     </properties>
 
     <modules>
+        <module>1-spring-security-jwt-resource-server</module>
     </modules>
 
 </project>
