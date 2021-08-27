@@ -78,6 +78,8 @@
         <module>1-spring-security-jwt-resource-server</module>
         <module>2-spring-security-oauth2-auth-server</module>
         <module>2-spring-security-oauth2-resource-server</module>
+        <module>3-spring-security-oauth2-jwt-auth-server</module>
+        <module>3-spring-security-oauth2-jwt-resource-server</module>
     </modules>
 
 </project>
