@@ -1,0 +1,12 @@
+server:
+  port: 9000
+jwt:
+  key: ymLTU8rq83j4fmJZj60wh4OrMNuntIj4fmJ
+
+security:
+  oauth2:
+    client:
+      client-id: resourceserver
+      client-secret: resourceserversecret
+    resource:
+      token-info-uri: http://localhost:8080/oauth/check_token
