@@ -80,6 +80,8 @@
         <module>2-spring-security-oauth2-resource-server</module>
         <module>3-spring-security-oauth2-jwt-auth-server</module>
         <module>3-spring-security-oauth2-jwt-resource-server</module>
+        <module>4-spring-security-oauth2-jwt-async-auth-server</module>
+        <module>4-spring-security-oauth2-jwt-async-resource-server</module>
     </modules>
 
 </project>
