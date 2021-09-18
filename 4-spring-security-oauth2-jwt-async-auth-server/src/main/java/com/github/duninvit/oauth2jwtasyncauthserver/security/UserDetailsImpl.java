@@ -14,6 +14,7 @@ public class UserDetailsImpl implements UserDetails {
     public UserDetailsImpl(final User user) {
         this.user = user;
     }
+
     @Override
     public String getUsername() {
         return user.getUsername();
