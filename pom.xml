@@ -82,6 +82,7 @@
         <module>3-spring-security-oauth2-jwt-resource-server</module>
         <module>4-spring-security-oauth2-jwt-async-auth-server</module>
         <module>4-spring-security-oauth2-jwt-async-resource-server</module>
+        <module>5-spring-security-keycloak-resource-server</module>
     </modules>
 
 </project>
